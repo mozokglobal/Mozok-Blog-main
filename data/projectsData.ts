@@ -7,11 +7,9 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
+    title: 'Midwest DME Supply Shopify',
+    description: `Midwest DME Supply transitioned from WordPress and WooCommerce to Shopify, leveraging its scalability and ease of use to revamp their online presence and streamline operations. With personalized training, they now benefit from a user-friendly website and optimized workflows, poised for future growth.`,
+    imgSrc: '/static/images/van-image.png',
     href: 'https://www.google.com',
   },
   {
